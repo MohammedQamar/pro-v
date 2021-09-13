@@ -7,9 +7,7 @@ function Header() {
     <Container>
       <div className="content">
         <h1>Build Coding Skills Online.</h1>
-        <p>
-          Learn to build awesome websites in HTML, CSS and JavaScript for free.
-        </p>
+        <p>Learn to awesome websites in HTML, CSS and JavaScript for free.</p>
         <Link href="/learn">
           <button>Get Started</button>
         </Link>
